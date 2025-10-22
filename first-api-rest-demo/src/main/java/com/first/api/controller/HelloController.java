@@ -60,7 +60,6 @@ public class HelloController {
 
     @GetMapping("/hello10")
     public String saludar10(){
-    public String saludar10(){
         return "10 - Hola Mundo con REST en Spring Boot";
     }
 
